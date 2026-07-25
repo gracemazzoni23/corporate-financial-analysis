@@ -97,7 +97,8 @@ Created an interactive executive dashboard including:
 
 ## Dashboard Preview
 
-<img width="1303" height="760" alt="image" src="https://github.com/user-attachments/assets/f65d199f-e375-4da8-a987-1205eea90bb7" />
+<img width="1302" height="762" alt="image" src="https://github.com/user-attachments/assets/e236a605-2e87-4c3b-ba07-3b35f5b945e5" />
+
 
 ---
 
